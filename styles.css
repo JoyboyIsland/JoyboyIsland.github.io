@@ -36,6 +36,45 @@ p {
     color: #FF0000;  /* Red text */
     padding: 20px;    /* Add padding */
 }
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+/* Global Style */
+body {
+    font-family: 'Pirata One', cursive;  /* Apply Google Font */
+    font-size: 16px;  /* Set your preferred font size */
+    color: #FF0000;   /* Red text color */
+    line-height: 1.6; /* Set line height for readability */
+    margin: 0;        /* Remove default margin */
+    padding: 0;       /* Remove default padding */
+    background-color: #000000; /* Black background */
+}
+
+/* Header Styling */
+h1, h2, h3, h4, h5, h6 {
+    color: #FF0000;   /* Red text color for headers */
+}
+
+/* Paragraph Styling */
+p {
+    color: #FF0000;   /* Red text color for paragraphs */
+}
+
+/* Optional: Apply the black and red color scheme to sections or other elements */
+.section {
+    background-color: #000000; /* Black background */
+    color: #FF0000; /* Red text color */
+    padding: 20px;
+}
+
+/* Optional: Apply the black and red color scheme to containers */
+.container {
+    background-color: #000000; /* Black background */
+    color: #FF0000; /* Red text color */
+    padding: 20px;
+}
+
 <head>
     <link rel="stylesheet" href="styles.css">
 </head>
