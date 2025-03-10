@@ -1,0 +1,22 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+/* Global Style */
+body {
+    font-family: 'Pirata One', cursive;
+    font-size: 16px;  /* You can set your preferred font size */
+    color: #333;      /* Set a text color */
+    line-height: 1.6; /* Set line height for readability */
+    margin: 0;        /* Remove default margin */
+    padding: 0;       /* Remove default padding */
+    background-color: #f4f4f4; /* Optional: Set a background color */
+}
+
+/* Example for other elements (optional) */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Pirata One', cursive;
+}
+
+p {
+    font-family: 'Pirata One', cursive;
+}
