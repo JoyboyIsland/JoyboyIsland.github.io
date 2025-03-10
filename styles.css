@@ -36,3 +36,24 @@ p {
     padding: 20px;
 }
 
+/* Make the link invisible */
+.invisible-link {
+    display: inline-block;
+    width: 20px; /* Width of the link's clickable area */
+    height: 20px; /* Height of the link's clickable area */
+    position: relative;
+    text-decoration: none; /* Remove underline from the link */
+    color: transparent; /* Make the link text invisible */
+}
+
+/* Style for the visible 'X' symbol */
+.close-symbol {
+    font-size: 20px; /* Size of the 'X' symbol */
+    color: black; /* Color of the visible 'X' symbol */
+    background-color: transparent; /* No background color */
+}
+
+/* Optional: Change the color of the 'X' on hover */
+.invisible-link:hover .close-symbol {
+    color: red; /* Color changes to red when hovered */
+}
