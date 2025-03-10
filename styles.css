@@ -10,7 +10,7 @@ body {
     margin: 0;        /* Remove default margin */
     padding: 0;       /* Remove default padding */
     background-color: #000000; /* Black background */
-    background-image: url('your-gif-url-here.gif');  /* Replace with your GIF URL */
+    background-image: url('![Image](https://github.com/user-attachments/assets/e7c9c099-90a7-4734-b740-42aaa0a93f0e)');  /* Replace with your GIF URL */
     background-size: cover;  /* Makes the background fill the entire screen */
     background-position: center;  /* Center the background */
     background-attachment: fixed; /* Make the background fixed when scrolling */
