@@ -16,7 +16,7 @@
 ### **Collaborations and Productions:**
 **Joyboy** not only produces his own beats but also frequently collaborates with producer **Fern_shy**, resulting in tracks like *“FRONTLINE!!!”*, *“NEVERLAND!”*, and *“ADDICTED2LIVING!”* These collaborations **shook music standards**, showcasing a synergy that resonates with the soul of listeners.
 
-###Joyboy at the show ![Image](https://github.com/user-attachments/assets/c1b3d6bc-e7d7-4c25-97ec-95066675de64)
+### Joyboy at the show ![Image](https://github.com/user-attachments/assets/c1b3d6bc-e7d7-4c25-97ec-95066675de64)
 
 ### **Social Media Presence:**
 Active on platforms like **Instagram** and **X** (formerly known as Twitter), **Joyboy** engages with his audience by sharing personal thoughts on **living freely** and giving insights into upcoming projects. In a recent post, he teased new music set for release in 2025 and announced multiple shows. (Source: [Instagram](https://www.instagram.com/zev.stieglitz/) [X](https://x.com/zevstieglitz?s=21))
