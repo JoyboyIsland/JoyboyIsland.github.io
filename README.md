@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-# Welcome to My Pirate Site
+# Welcome to My Pirate Site, my journey to becoming the Pirate King.
 
 
 ### **Zev Stieglitz** (aka **Joyboy**)
