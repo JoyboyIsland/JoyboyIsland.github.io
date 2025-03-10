@@ -10,7 +10,7 @@
 ### **"FRONTLINE!!!"**
 **Joyboy** released *"FRONTLINE!!!"*, a track that delves into the challenges of pursuing one's **dreams**. The song received acclaim for its raw portrayal of ambition and resilience. **Music journalist NSF** commented, "*Zev is dropping pieces of fine melodic art, not just music.*" (Source: [Medium](https://medium.com/@newsoundsfirst/zev-stieglitz-aka-joyboy-drops-frontline-a-gritty-take-on-chasing-dreams-d47ae8a2b71f))
 
-![Image](https://github.com/user-attachments/assets/70bf81ac-4252-420d-b46d-918e99cacff0)
+![Image](https://github.com/user-attachments/assets/65455905-c633-4215-8d08-af64ba86ec8e)
 
 
 ### **Collaborations and Productions:**
@@ -36,6 +36,8 @@ Active on platforms like **Instagram** and **X** (formerly known as Twitter), **
 * [**"MIRACLES!"**](https://on.soundcloud.com/JRgnBtgjTp8jE3fS8) (2023)
 * [**"Whole 9 Yards!"**](https://on.soundcloud.com/tDuwpR11xdvyDLqT9) (2023)
 * [**"So Special! Ft fathericonic"**](https://on.soundcloud.com/6pSqH3n8AX1wYSYz8) (2023)
+
+* ![Image](https://github.com/user-attachments/assets/70bf81ac-4252-420d-b46d-918e99cacff0)
 
 ## **Online Presence:**
 **Joyboy's** tracks are available on his **SoundCloud profile and all major platforms**, where listeners can stream his latest releases.  
