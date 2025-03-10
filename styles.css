@@ -10,6 +10,10 @@ body {
     margin: 0;        /* Remove default margin */
     padding: 0;       /* Remove default padding */
     background-color: #000000; /* Black background */
+    background-image: url('your-gif-url-here.gif');  /* Replace with your GIF URL */
+    background-size: cover;  /* Makes the background fill the entire screen */
+    background-position: center;  /* Center the background */
+    background-attachment: fixed; /* Make the background fixed when scrolling */
 }
 
 /* Header Styling */
@@ -46,3 +50,4 @@ p {
 .invisible-link:hover .close-symbol {
     color: red; /* Color changes to red when hovered */
 }
+
