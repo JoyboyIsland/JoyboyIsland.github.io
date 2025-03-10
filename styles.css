@@ -3,27 +3,38 @@
 
 /* Global Style */
 body {
-    font-family: 'Pirata One', cursive;
+    font-family: 'Pirata One', cursive;  /* Apply Google Font */
     font-size: 16px;  /* You can set your preferred font size */
-    color: #333;      /* Set a text color */
+    color: #FF0000;   /* Red text color */
     line-height: 1.6; /* Set line height for readability */
     margin: 0;        /* Remove default margin */
     padding: 0;       /* Remove default padding */
-    background-color: #f4f4f4; /* Optional: Set a background color */
+    background-color: #000000; /* Black background */
 }
 
 /* Example for other elements (optional) */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Pirata One', cursive;
+    font-family: 'Pirata One', cursive;  /* Apply Google Font */
+    color: #FF0000;  /* Red text color for headers */
 }
 
 p {
-    font-family: 'Pirata One', cursive;
+    font-family: 'Pirata One', cursive;  /* Apply Google Font */
+    color: #FF0000;  /* Red text color for paragraphs */
 }
-/* In styles.css */
 
-/* Set the background color to black and text color to red */
-body {
-    background-color: #000000; /* Black background */
-    color: #FF0000; /* Red text color */
+/* Optional: Set a red background for specific sections */
+.section {
+    background-color: #FF0000; /* Red background */
+    color: #000000;  /* Black text */
+    padding: 20px;
 }
+
+/* Optional: Set a black background for containers */
+.container {
+    background-color: #000000;  /* Black background */
+    color: #FF0000;  /* Red text */
+    padding: 20px;    /* Add padding */
+}
+
+
