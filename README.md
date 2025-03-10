@@ -2,7 +2,7 @@
 
 **Zev Stieglitz**, known professionally as **Joyboy**, is an American artist and musician recognized for his unique and raw blend of melodic rap and introspective lyrics. Masterfully intertwining **pirate-inspired themes**, Joyboy is emerging onto the music scene with a distinct sound. He has been gaining attention for his unapologetic storytelling and innovative approach to music. As he puts it, *“I just want to be free and have fun.”*
 
-<img src="![Image](https://github.com/user-attachments/assets/112ceabd-9277-4a0d-a812-05c0c9c7cac7)" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/112ceabd-9277-4a0d-a812-05c0c9c7cac7" width="600" height="600">
 
 ## **Career Highlights:**
 
