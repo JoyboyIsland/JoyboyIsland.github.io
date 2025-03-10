@@ -19,9 +19,9 @@
 ### Joyboy at the show ![Image](https://github.com/user-attachments/assets/c1b3d6bc-e7d7-4c25-97ec-95066675de64)
 
 ### **Social Media Presence:**
-Active on platforms like **Instagram** and **X** (formerly known as Twitter), **Joyboy** engages with his audience by sharing personal thoughts on **living freely** and giving insights into upcoming projects. In a recent post, he teased new music set for release in 2025 and announced multiple shows. (Source: [Instagram](https://www.instagram.com/zev.stieglitz/) [X](https://x.com/zevstieglitz?s=21))
+Active on platforms like **Instagram** and **X** (formerly known as Twitter), **Joyboy** engages with his audience by sharing personal thoughts on **living freely** and giving insights into upcoming projects. In a recent post, he teased new music set for release in 2025 and announced multiple shows. (Source: [Instagram](https://www.instagram.com/zev.stieglitz/) [X](https://x.com/zevstieglitz?s=21 [snap](https://www.snapchat.com/add/zevsteg?share_id=YBoczQG8QuKbA5VqILclJA&locale=en_US))
 
-![Image](https://github.com/user-attachments/assets/e6ac5e3c-8b1a-465f-98e5-6f36400b6236) ![Image](https://github.com/user-attachments/assets/20086f4a-a7bf-4fdc-8549-5ab3a3d9459d)
+![Image](https://github.com/user-attachments/assets/e6ac5e3c-8b1a-465f-98e5-6f36400b6236) ![Image](https://github.com/user-attachments/assets/5c808817-7b49-48ce-9c6a-9129bf46ba97) ![Image](https://github.com/user-attachments/assets/287aa4fc-d737-40f1-9371-2fee6f38dffd) 
 
 ### **Musical Style and Influence:**
 **Joyboy's** music is characterized by its melodic flow and introspective lyrics, often exploring themes of personal **growth**, **struggle**, and **determination**. His ability to blend **catchy rhythms with meaningful storytelling** has positioned him as a noteworthy artist in the contemporary music landscape. The **pirate-inspired** elements of his music evoke imagery of the open sea, treasure hunts, and daring escapades, weaving in themes of **adventure and freedom**. His unique fusion of these themes with modern rap creates an unforgettable auditory experience.
