@@ -79,4 +79,8 @@ p {
     <link rel="stylesheet" href="styles.css">
 </head>
 
+body {
+    background-color: #000000 !important; /* Black background */
+    color: #FF0000 !important;            /* Red text color */
+}
 
