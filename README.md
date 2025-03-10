@@ -23,7 +23,8 @@ https://github.com/user-attachments/assets/ed55ed96-1d1b-4264-a688-0f1cddbf9fc5
 ### **Social Media Presence:**
 Active on platforms like **Instagram** and **X** (formerly known as Twitter), **Joyboy** engages with his audience by sharing personal thoughts on **living freely** and giving insights into upcoming projects. In a recent post, he teased new music set for release in 2025 and announced multiple shows. (Source: [Instagram](https://www.instagram.com/zev.stieglitz/) [X](https://x.com/zevstieglitz?s=21 [snap](https://www.snapchat.com/add/zevsteg?share_id=YBoczQG8QuKbA5VqILclJA&locale=en_US))
 
-![Image](https://github.com/user-attachments/assets/e6ac5e3c-8b1a-465f-98e5-6f36400b6236) ![Image](https://github.com/user-attachments/assets/498b024d-47a4-4be4-9898-119b40f040c1)
+![Image](https://github.com/user-attachments/assets/498b024d-47a4-4be4-9898-119b40f040c1)  ![Image](https://github.com/user-attachments/assets/22cf7340-8563-481d-9b2f-1b772a630552)
+
 ### **Musical Style and Influence:**
 **Joyboy's** music is characterized by its melodic flow and introspective lyrics, often exploring themes of personal **growth**, **struggle**, and **determination**. His ability to blend **catchy rhythms with meaningful storytelling** has positioned him as a noteworthy artist in the contemporary music landscape. The **pirate-inspired** elements of his music evoke imagery of the open sea, treasure hunts, and daring escapades, weaving in themes of **adventure and freedom**. His unique fusion of these themes with modern rap creates an unforgettable auditory experience.
 
