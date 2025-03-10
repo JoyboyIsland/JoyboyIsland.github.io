@@ -12,17 +12,7 @@ body {
     background-color: #000000; /* Black background */
 }
 
-/* Header Styling */
-h2, h3, h5, h6 {
-    color: #FFFF00;   /* Yellow text color for headers */
-}
-
-/* Paragraph Styling */
-p {
-    color: #FF0000;   /* Red text color for paragraphs */
-}
-
-/* Make the link invisible */
+/* Invisible Link with Visible 'X' Symbol */
 .invisible-link {
     display: inline-block;
     width: 40px; /* Set the clickable area size */
@@ -34,15 +24,13 @@ p {
     left: 10px; /* Adjust left position */
 }
 
-/* Style for the visible 'X' symbol */
 .close-symbol {
-    font-size: 30px; /* Original size of the 'X' symbol */
-    font-size: calc(30px * 1.3); /* Increase the size by 30% */
-    color: black; /* Color of the visible 'X' symbol */
+    font-size: 30px; /* Size of the 'X' symbol */
+    color: black; /* Color of the 'X' symbol */
     background-color: transparent; /* No background color */
 }
 
-/* Optional: Change the color of the 'X' on hover */
+/* Change the color of the 'X' when hovered */
 .invisible-link:hover .close-symbol {
-    color: red; /* Color changes to red when hovered */
+    color: red;
 }
