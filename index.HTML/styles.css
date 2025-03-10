@@ -22,42 +22,26 @@ p {
     color: #FF0000;   /* Red text color for paragraphs */
 }
 
-/* Invisible Link Styling */
+/* Make the link invisible */
 .invisible-link {
     display: inline-block;
-    width: 40px; /* Increase size for the clickable area */
-    height: 40px; /* Increase size for the clickable area */
+    width: 40px; /* Set the clickable area size */
+    height: 40px; /* Set the clickable area size */
     text-decoration: none; /* Remove underline from the link */
     color: transparent; /* Make the link text invisible */
-    position: relative; /* Allow position adjustments */
+    position: absolute; /* Position it anywhere */
+    top: 10px; /* Adjust top position */
+    left: 10px; /* Adjust left position */
 }
 
-/* Invisible Link Styling */
-.invisible-link {
-    display: inline-block;
-    width: 40px; /* Size of the clickable area */
-    height: 40px; /* Size of the clickable area */
-    position: fixed; /* Fixed position relative to the viewport */
-    bottom: 10px; /* 10px from the bottom */
-    right: 10px; /* 10px from the right */
-    text-decoration: none; /* Remove underline from the link */
-    color: transparent; /* Make the link text invisible */
-}
-
-/* Visible X Symbol */
+/* Style for the visible 'X' symbol */
 .close-symbol {
     font-size: 30px; /* Size of the 'X' symbol */
-    color: #FFFFFF;  /* Make 'X' white for visibility */
+    color: black; /* Color of the visible 'X' symbol */
     background-color: transparent; /* No background color */
-    position: absolute; /* Position it within the link */
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    text-align: center; /* Center align the 'X' */
 }
 
-/* Change color of 'X' symbol on hover */
+/* Optional: Change the color of the 'X' on hover */
 .invisible-link:hover .close-symbol {
-    color: red; /* Red color on hover */
+    color: red; /* Color changes to red when hovered */
 }
