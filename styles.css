@@ -39,8 +39,8 @@ p {
 /* Make the link invisible */
 .invisible-link {
     display: inline-block;
-    width: 20px; /* Width of the link's clickable area */
-    height: 20px; /* Height of the link's clickable area */
+    width: 20px; /* Width of the clickable area */
+    height: 20px; /* Height of the clickable area */
     position: relative;
     text-decoration: none; /* Remove underline from the link */
     color: transparent; /* Make the link text invisible */
