@@ -32,6 +32,18 @@ p {
     position: relative; /* Allow position adjustments */
 }
 
+/* Invisible Link Styling */
+.invisible-link {
+    display: inline-block;
+    width: 40px; /* Size of the clickable area */
+    height: 40px; /* Size of the clickable area */
+    position: fixed; /* Fixed position relative to the viewport */
+    bottom: 10px; /* 10px from the bottom */
+    right: 10px; /* 10px from the right */
+    text-decoration: none; /* Remove underline from the link */
+    color: transparent; /* Make the link text invisible */
+}
+
 /* Visible X Symbol */
 .close-symbol {
     font-size: 30px; /* Size of the 'X' symbol */
@@ -49,3 +61,4 @@ p {
 .invisible-link:hover .close-symbol {
     color: red; /* Red color on hover */
 }
+
