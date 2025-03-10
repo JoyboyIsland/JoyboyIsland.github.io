@@ -1,0 +1,63 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+/* Global Style */
+body {
+    font-family: 'Pirata One', cursive;  /* Apply Google Font */
+    font-size: 16px;  /* Set your preferred font size */
+    color: #FF0000;   /* Red text color */
+    line-height: 1.6; /* Set line height for readability */
+    margin: 0;        /* Remove default margin */
+    padding: 0;       /* Remove default padding */
+    background-color: #000000; /* Black background */
+}
+
+/* Header Styling */
+h2, h3, h5, h6 {
+    color: #FFFF00;   /* Yellow text color for headers */
+}
+
+/* Paragraph Styling */
+p {
+    color: #FF0000;   /* Red text color for paragraphs */
+}
+
+/* Invisible Link Styling */
+.invisible-link {
+    display: inline-block;
+    width: 40px; /* Increase size for the clickable area */
+    height: 40px; /* Increase size for the clickable area */
+    text-decoration: none; /* Remove underline from the link */
+    color: transparent; /* Make the link text invisible */
+    position: relative; /* Allow position adjustments */
+}
+
+/* Invisible Link Styling */
+.invisible-link {
+    display: inline-block;
+    width: 40px; /* Size of the clickable area */
+    height: 40px; /* Size of the clickable area */
+    position: fixed; /* Fixed position relative to the viewport */
+    bottom: 10px; /* 10px from the bottom */
+    right: 10px; /* 10px from the right */
+    text-decoration: none; /* Remove underline from the link */
+    color: transparent; /* Make the link text invisible */
+}
+
+/* Visible X Symbol */
+.close-symbol {
+    font-size: 30px; /* Size of the 'X' symbol */
+    color: #FFFFFF;  /* Make 'X' white for visibility */
+    background-color: transparent; /* No background color */
+    position: absolute; /* Position it within the link */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center; /* Center align the 'X' */
+}
+
+/* Change color of 'X' symbol on hover */
+.invisible-link:hover .close-symbol {
+    color: red; /* Red color on hover */
+}
