@@ -1,0 +1,48 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+/* Global Style */
+body {
+    font-family: 'Pirata One', cursive;  /* Apply Google Font */
+    font-size: 16px;  /* Set your preferred font size */
+    color: #FF0000;   /* Red text color */
+    line-height: 1.6; /* Set line height for readability */
+    margin: 0;        /* Remove default margin */
+    padding: 0;       /* Remove default padding */
+    background-color: #000000; /* Black background */
+}
+
+/* Header Styling */
+h2, h3, h5, h6 {
+    color: #FFFF00;   /* Yellow text color for headers */
+}
+
+/* Paragraph Styling */
+p {
+    color: #FF0000;   /* Red text color for paragraphs */
+}
+
+/* Make the link invisible */
+.invisible-link {
+    display: inline-block;
+    width: 40px; /* Set the clickable area size */
+    height: 40px; /* Set the clickable area size */
+    text-decoration: none; /* Remove underline from the link */
+    color: transparent; /* Make the link text invisible */
+    position: absolute; /* Position it anywhere */
+    top: 10px; /* Adjust top position */
+    left: 10px; /* Adjust left position */
+}
+
+/* Style for the visible 'X' symbol */
+.close-symbol {
+    font-size: 30px; /* Original size of the 'X' symbol */
+    font-size: calc(30px * 1.3); /* Increase the size by 30% */
+    color: black; /* Color of the visible 'X' symbol */
+    background-color: transparent; /* No background color */
+}
+
+/* Optional: Change the color of the 'X' on hover */
+.invisible-link:hover .close-symbol {
+    color: red; /* Color changes to red when hovered */
+}
