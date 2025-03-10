@@ -1,15 +1,16 @@
 ### **Zev Stieglitz** (aka **Joyboy**)
+![Image](https://github.com/user-attachments/assets/0ebf0126-f286-4a13-82b9-87a592616cf1)
 
-**Zev Stieglitz**, known professionally as **Joyboy**, is an American artist and musician recognized for his unique and raw blend of melodic rap and introspective lyrics. Masterfully intertwining **pirate-inspired themes**, Joyboy is emerging onto the music scene with a distinct sound. He has been gaining attention for his unapologetic storytelling and innovative approach to music. As he puts it, *“I just want to be free and have fun.”*
+#### ***Zev Stieglitz***, known professionally as **Joyboy**, is an American artist and musician recognized for his unique and raw blend of melodic rap and introspective lyrics. Masterfully intertwining **pirate-inspired themes**, Joyboy is emerging onto the music scene with a distinct sound. He has been gaining attention for his unapologetic storytelling and innovative approach to music. As he puts it, *“I just want to be free and have fun.”*
 
-<img src="https://github.com/user-attachments/assets/112ceabd-9277-4a0d-a812-05c0c9c7cac7" width="2000" height="2700">
+![Image](https://github.com/user-attachments/assets/15ebf09b-e101-46a9-9c80-de548d3f3641)
 
 ## **Career Highlights:**
 
 ### **"FRONTLINE!!!"**
 **Joyboy** released *"FRONTLINE!!!"*, a track that delves into the challenges of pursuing one's **dreams**. The song received acclaim for its raw portrayal of ambition and resilience. **Music journalist NSF** commented, "*Zev is dropping pieces of fine melodic art, not just music.*" (Source: [Medium](https://medium.com/@newsoundsfirst/zev-stieglitz-aka-joyboy-drops-frontline-a-gritty-take-on-chasing-dreams-d47ae8a2b71f))
 
-<img src="![Image](https://github.com/user-attachments/assets/897abee6-f9b7-43d2-b7b3-1b87db5b124a)" width="400" height="400">
+![Image](https://github.com/user-attachments/assets/70bf81ac-4252-420d-b46d-918e99cacff0)
 
 
 ### **Collaborations and Productions:**
