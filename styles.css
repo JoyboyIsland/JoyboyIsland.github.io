@@ -14,7 +14,7 @@ body {
 
 /* Header Styling */
 h2, h3, h5, h6 {
-    color: FFFF00;   /* Red text color for headers */
+    color: #FFFF00;   /* Yellow text color for headers */
 }
 
 /* Paragraph Styling */
@@ -22,38 +22,30 @@ p {
     color: #FF0000;   /* Red text color for paragraphs */
 }
 
-/* Optional: Apply the black and red color scheme to sections or other elements */
-.section {
-    background-color: #000000; /* Black background */
-    color: #FF0000; /* Red text color */
-    padding: 20px;
-}
-
-/* Optional: Apply the black and red color scheme to containers */
-.container {
-    background-color: #000000; /* Black background */
-    color: #FF0000; /* Red text color */
-    padding: 20px;
-}
-
-/* Make the link invisible */
+/* Invisible Link Styling */
 .invisible-link {
     display: inline-block;
-    width: 20px; /* Width of the clickable area */
-    height: 20px; /* Height of the clickable area */
-    position: relative;
+    width: 40px; /* Increase size for the clickable area */
+    height: 40px; /* Increase size for the clickable area */
     text-decoration: none; /* Remove underline from the link */
     color: transparent; /* Make the link text invisible */
+    position: relative; /* Allow position adjustments */
 }
 
-/* Style for the visible 'X' symbol */
+/* Visible X Symbol */
 .close-symbol {
-    font-size: 20px; /* Size of the 'X' symbol */
-    color: black; /* Color of the visible 'X' symbol */
+    font-size: 30px; /* Size of the 'X' symbol */
+    color: #FFFFFF;  /* Make 'X' white for visibility */
     background-color: transparent; /* No background color */
+    position: absolute; /* Position it within the link */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center; /* Center align the 'X' */
 }
 
-/* Optional: Change the color of the 'X' on hover */
+/* Change color of 'X' symbol on hover */
 .invisible-link:hover .close-symbol {
-    color: red; /* Color changes to red when hovered */
+    color: red; /* Red color on hover */
 }
