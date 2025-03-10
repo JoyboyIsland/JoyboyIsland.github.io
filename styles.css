@@ -20,3 +20,10 @@ h1, h2, h3, h4, h5, h6 {
 p {
     font-family: 'Pirata One', cursive;
 }
+/* In styles.css */
+
+/* Set the background color to black and text color to red */
+body {
+    background-color: #000000; /* Black background */
+    color: #FF0000; /* Red text color */
+}
