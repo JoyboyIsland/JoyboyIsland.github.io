@@ -1,65 +1,85 @@
-<link rel="stylesheet" href="styles.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pirate Music</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet"> <!-- Include Pirate One font -->
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <style>
+        /* Global Style */
+        body {
+            font-family: 'Pirata One', cursive;  /* Apply Pirate One font */
+            font-size: 16px;  /* Set your preferred font size */
+            color: #FF0000;   /* Red text color */
+            line-height: 1.6; /* Set line height for readability */
+            margin: 0;        /* Remove default margin */
+            padding: 0;       /* Remove default padding */
+            background-color: #000000; /* Black background */
+            background-image: url('befree.gif');  /* Path to your GIF */
+            background-size: cover;  /* Make the background cover the entire screen */
+            background-position: center;  /* Center the background */
+            background-attachment: fixed; /* Make the background fixed when scrolling */
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Align items to the top */
+            height: 100vh; /* Full viewport height */
+            padding-left: 50px; /* Slightly shift content to the left */
+        }
 
-# Welcome to My Pirate Site, my journey to becoming the Pirate King.
-for my thoughts > [**<span style="color: red;">PiratesMind</span>**](https://joyboyisland3.github.io/)
+        /* Content Container */
+        .content {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            max-width: 1200px; /* Optional: limit width for large screens */
+            text-align: left; /* Align text to the left */
+        }
 
-# BIO:
+        /* Header Styling */
+        h1 {
+            font-size: 4em; /* Adjust size to fit the page */
+            color: yellow;
+            text-align: left;
+            margin-bottom: 20px;
+        }
 
-### **Zev Stieglitz** (aka **Joyboy**)
+        /* Paragraph Styling */
+        p {
+            font-size: 1.2em;
+            color: yellow;
+            line-height: 1.8;
+            margin-bottom: 15px;
+            text-align: left;
+        }
 
+        /* Additional Styling for sections */
+        .section {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>PIRATE MUSIC</h1>
+        
+        <div class="section">
+            <h2>Welcome to My Pirate Site, my journey to becoming the Pirate King.</h2>
+            <p>For my thoughts > <a href="https://joyboyisland3.github.io/" style="color: red;">PiratesMind</a></p>
+        </div>
 
-#### ***Zev Stieglitz***, known professionally as **Joyboy**, is an American artist and musician recognized for his unique and raw blend of melodic rap and introspective lyrics. Masterfully intertwining **pirate-inspired themes**, Joyboy is emerging onto the music scene with a distinct sound. He has been gaining attention for his unapologetic storytelling and innovative approach to music. As he puts it, *“I just want to be free and have fun.”*
+        <div class="section">
+            <h2>BIO:</h2>
+            <h3>Zev Stieglitz (aka Joyboy)</h3>
+            <p>**Zev Stieglitz**, known professionally as **Joyboy**, is an American artist and musician recognized for his unique and raw blend of melodic rap and introspective lyrics. Masterfully intertwining pirate-inspired themes, Joyboy is emerging onto the music scene with a distinct sound.</p>
+            <img src="https://github.com/user-attachments/assets/e7c9c099-90a7-4734-b740-42aaa0a93f0e" alt="Image" style="max-width: 100%; height: auto;">
+        </div>
 
-![Image](https://github.com/user-attachments/assets/e7c9c099-90a7-4734-b740-42aaa0a93f0e)
-
-## **Career Highlights:**
-
-### **"FRONTLINE!!!"**
-**Joyboy** released *"FRONTLINE!!!"*, a track that delves into the challenges of pursuing one's **dreams**. The song received acclaim for its raw portrayal of ambition and resilience. **Music journalist NSF** commented, "*Zev is dropping pieces of fine melodic art, not just music.*" (Source: [Medium](https://medium.com/@newsoundsfirst/zev-stieglitz-aka-joyboy-drops-frontline-a-gritty-take-on-chasing-dreams-d47ae8a2b71f))
-
-![Image](https://github.com/user-attachments/assets/65455905-c633-4215-8d08-af64ba86ec8e)
-
-
-### **Collaborations and Productions:**
-**Joyboy** not only produces his own beats but also frequently collaborates with producer **Fern_shy**, resulting in tracks like *“FRONTLINE!!!”*, *“NEVERLAND!”*, and *“ADDICTED2LIVING!”* These collaborations **shook music standards**, showcasing a synergy that resonates with the soul of listeners.
-
-### Joyboy at the show ![Image](https://github.com/user-attachments/assets/c1b3d6bc-e7d7-4c25-97ec-95066675de64)
-
-### **Social Media Presence:**
-Active on platforms like **Instagram** and **X** (formerly known as Twitter), **Joyboy** engages with his audience by sharing personal thoughts on **living freely** and giving insights into upcoming projects. In a recent post, he teased new music set for release in 2025 and announced multiple shows. (Source: [Instagram](https://www.instagram.com/zev.stieglitz/) [X](https://x.com/zevstieglitz?s=21 [snap](https://www.snapchat.com/add/zevsteg?share_id=YBoczQG8QuKbA5VqILclJA&locale=en_US))
-
- ![Image](https://github.com/user-attachments/assets/22cf7340-8563-481d-9b2f-1b772a630552) ![Image](https://github.com/user-attachments/assets/4936f2dc-c3f9-4a57-bc6c-f1d72a38d7f6)
-
-### **Musical Style and Influence:**
-**Joyboy's** music is characterized by its melodic flow and introspective lyrics, often exploring themes of personal **growth**, **struggle**, and **determination**. His ability to blend **catchy rhythms with meaningful storytelling** has positioned him as a noteworthy artist in the contemporary music landscape. The **pirate-inspired** elements of his music evoke imagery of the open sea, treasure hunts, and daring escapades, weaving in themes of **adventure and freedom**. His unique fusion of these themes with modern rap creates an unforgettable auditory experience.
-
-#### **Discography:**
-* [**"FRONTLINE!!!"**](https://open.spotify.com/album/4y35XvwPefIN04ZjYVW2zq?si=4qx6TgdVQ72eV7-wQ2OsYA) (2025)
-* [**"NEVERLAND!"**](https://on.soundcloud.com/mUKEbaqASEqYNtkr7) (2025)
-* [**"ADDICTED2LIVING!"**](https://on.soundcloud.com/YMaHhSWdF4aTTi5LA) (2024)
-* [**"BLACKFLAG!"**](https://on.soundcloud.com/u3ADcsxENP4hL9cu8) (2024)
-* [**"SEETHESKY!"**](https://on.soundcloud.com/CMwzdYKsBDUt8ZNr6) (2024)
-* [**"SEND TO THE GODS!"**](https://on.soundcloud.com/8fVLMknorHpfC3pb9) (2024)
-* [**"MIRACLES!"**](https://on.soundcloud.com/JRgnBtgjTp8jE3fS8) (2023)
-* [**"Whole 9 Yards!"**](https://on.soundcloud.com/tDuwpR11xdvyDLqT9) (2023)
-* [**"So Special! Ft fathericonic"**](https://on.soundcloud.com/6pSqH3n8AX1wYSYz8) (2023)
-
-* ![Image](https://github.com/user-attachments/assets/70bf81ac-4252-420d-b46d-918e99cacff0)
-
-## **Online Presence:**
-**Joyboy's** tracks are available on his **SoundCloud profile and all major platforms**, where listeners can stream his latest releases.  
-[SoundCloud](https://m.soundcloud.com/zevstieglitz)  
-[Spotify](https://open.spotify.com/artist/62Gb3It7eyils2yUOu5Bnj?si=r66x1-KaR2yoUCrPFOsfIQ)  
-[Apple Music](https://music.apple.com/us/artist/zev-stieglitz/1646805376)
-
-For updates on upcoming **music, performances, and personal insights**, follow **Joyboy** on:  
-[Instagram](https://www.instagram.com/zev.stieglitz/)  
-[X](https://x.com/zevstieglitz?s=21)
-
-As **Joyboy** continues to evolve as an artist, his commitment to authenticity and musical innovation remains at the forefront of his work. Combined with his **pirate-inspired themes**, this promises a **bright and adventurous** future in the music industry.
-
-![Image](https://github.com/user-attachments/assets/0ebf0126-f286-4a13-82b9-87a592616cf1)
-
-
-[**<span style="color: red;">???X???</span>**](https://joyboyisland2.github.io/)
-
+        <div class="section">
+            <h2>Career Highlights:</h2>
+            <p>Joyboy has gained attention for his unapologetic storytelling and innovative approach to music...</p>
+            <img src="https://github.com/user-attachments/assets/65455905-c633-4215-8d08-af64ba86ec8e" alt="Image" style="max-width: 100%; height: auto;">
+        </div>
+    </div>
+</body>
+</html>
