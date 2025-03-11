@@ -4,24 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pirate Music</title>
-    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet"> <!-- Include Pirate One font -->
+    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Include marked.js to parse markdown -->
     <style>
-        /* Global Style */
         body {
-            font-family: 'Pirata One', cursive;  /* Apply Google Font */
-            font-size: 16px;  /* Set your preferred font size */
-            color: #FF0000;   /* Red text color */
-            line-height: 1.6; /* Set line height for readability */
-            margin: 0;        /* Remove default margin */
-            padding: 0;       /* Remove default padding */
-            background-color: #000000; /* Black background */
-            background-image: url('PIRATEEEMUSIC!.gif'); /* Background image to PIRATEEEMUSIC!.gif */
-            background-size: cover;  /* Make the background fill the entire screen */
-            background-position: center;  /* Center the background */
-            background-attachment: fixed; /* Make the background fixed when scrolling */
+            font-family: 'Pirata One', cursive;
+            font-size: 16px;
+            color: #FF0000;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            background-image: url('PIRATEEEMUSIC!.gif');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        #content {
+            margin: 20px;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.7); /* Background for readability */
+            color: #FF0000;
         }
     </style>
 </head>
 <body>
+    <div id="content"></div>
+
+    <script>
+        // Fetch the README.md file and convert it into HTML using marked.js
+        fetch('README.md')  // Replace with the path to your README file
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('content').innerHTML = marked(data); // Convert Markdown to HTML
+            });
+    </script>
 </body>
 </html>
