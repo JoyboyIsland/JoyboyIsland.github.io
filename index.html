@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pirate Music</title>
     <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Include marked.js to parse markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Include marked.js library -->
     <style>
         body {
             font-family: 'Pirata One', cursive;
@@ -21,24 +21,37 @@
             background-attachment: fixed;
         }
 
-        #content {
-            margin: 20px;
+        .content {
             padding: 20px;
-            background-color: rgba(0, 0, 0, 0.7); /* Background for readability */
-            color: #FF0000;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for text visibility */
+            color: white;
+            overflow-y: auto;
+            height: 100vh; /* Ensure content takes full height */
+            width: 100%;
         }
     </style>
 </head>
 <body>
-    <div id="content"></div>
+
+    <div class="content" id="readme-container">
+        <!-- README content will be loaded here -->
+    </div>
 
     <script>
-        // Fetch the README.md file and convert it into HTML using marked.js
-        fetch('README.md')  // Replace with the path to your README file
+        // Fetch the README.md file and render it as HTML
+        fetch('README.md')
             .then(response => response.text())
-            .then(data => {
-                document.getElementById('content').innerHTML = marked(data); // Convert Markdown to HTML
+            .then(markdown => {
+                // Convert Markdown to HTML using marked.js
+                const htmlContent = marked(markdown);
+                document.getElementById('readme-container').innerHTML = htmlContent;
+            })
+            .catch(error => {
+                console.error('Error fetching the README.md file:', error);
             });
     </script>
+
 </body>
 </html>
