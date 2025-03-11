@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 
-# Welcome to My Pirate Site, my journey to becoming the Pirate King.           for my thoughts > [**<span style="color: red;">PiratesMind</span>**](https://joyboyisland3.github.io/)
+# Welcome to My Pirate Site, my journey to becoming the Pirate King.
+for my thoughts > [**<span style="color: red;">PiratesMind</span>**](https://joyboyisland3.github.io/)
 
 # BIO:
 
