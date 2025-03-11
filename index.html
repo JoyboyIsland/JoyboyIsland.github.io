@@ -4,61 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pirate Music</title>
-    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet"> <!-- Use Pirate One font -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Use marked.js to parse markdown -->
     <style>
         body {
-            font-family: 'Pirata One', cursive;
             margin: 0;
             padding: 0;
-            background-image: url('PIRATEEEMUSIC!.gif');  /* Set the gif background */
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            color: white; /* Text color */
-            font-size: 16px;
-            line-height: 1.6;
-        }
-
-        /* Container for content */
-        .content {
-            padding: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
-            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for readability */
-            color: white;
-            overflow-y: auto;
-            height: 100%;
-            width: 100%;
-            box-sizing: border-box;
-        }
-
-        /* Links styling */
-        a {
-            color: #FF0000;
-            text-decoration: underline;
-        }
-
-        /* Styling for images */
-        img {
-            max-width: 100%;
-            height: auto;
+            background-image: url('PIRATEEEMUSIC!.gif'); /* Set your gif file here */
+            background-size: cover; /* Make the background cover the whole screen */
+            background-position: center; /* Center the background */
+            background-attachment: fixed; /* Keep the background fixed */
+            height: 100vh; /* Set the height to cover the full viewport */
+            width: 100vw; /* Set the width to cover the full viewport */
         }
     </style>
 </head>
 <body>
-    <div class="content" id="content"></div>
-
-    <script>
-        // Fetch the README.md file content using fetch API
-        fetch('README.md')
-            .then(response => response.text())
-            .then(text => {
-                // Use the marked.js library to convert Markdown to HTML
-                const htmlContent = marked(text);
-                document.getElementById('content').innerHTML = htmlContent;
-            })
-            .catch(error => console.error('Error loading README.md:', error));
-    </script>
 </body>
 </html>
