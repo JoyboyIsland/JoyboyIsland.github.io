@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="styles.css">
 
-# Welcome to My Pirate Site, my journey to becoming the Pirate King.
+# Welcome to My Pirate Site, my journey to becoming the Pirate King.           for my thoughts > [**<span style="color: red;">PiratesMind</span>**]()
 
+# BIO:
 
 ### **Zev Stieglitz** (aka **Joyboy**)
 
