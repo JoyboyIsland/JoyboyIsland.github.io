@@ -7,49 +7,52 @@
     <link rel="stylesheet" href="styles.css">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, sans-serif; /* Fallback to Arial for better readability */
             margin: 0;
             padding: 0;
-            background-image: url('PIRATEEEMUSIC!.gif');
+            background-image: url('PIRATEEEMUSIC!.gif');  /* Set the gif background */
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
-            color: white;
-            font-size: 18px;
-            line-height: 1.8;
-            padding: 20px;
+            color: white; /* Text color */
+            font-size: 18px; /* Larger font size for better readability */
+            line-height: 1.8; /* Increased line-height for better readability */
+            padding: 20px; /* Padding around the body */
         }
 
+        /* Container for content */
         .content {
-            padding: 40px;
+            padding: 40px; /* Added padding to the container */
             max-width: 1200px;
             margin: 0 auto;
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for readability */
             color: white;
             overflow-y: auto;
             height: 100%;
             width: 100%;
             box-sizing: border-box;
-            border-radius: 10px;
+            border-radius: 10px; /* Rounded corners for better appearance */
         }
 
         h1, h2, h3, h4 {
-            font-size: 2rem;
+            font-size: 2rem; /* Larger headings */
             line-height: 1.4;
             margin-bottom: 10px;
         }
 
+        /* Links styling */
         a {
             color: #FF0000;
             text-decoration: underline;
-            font-weight: bold;
+            font-weight: bold; /* Bold links for better visibility */
         }
 
+        /* Styling for images */
         img {
             max-width: 100%;
             height: auto;
             margin: 20px 0;
-            border-radius: 8px;
+            border-radius: 8px; /* Rounded corners for images */
         }
 
         ul {
@@ -58,27 +61,37 @@
         }
 
         p {
-            font-size: 1.2rem;
+            font-size: 1.2rem; /* Slightly larger paragraph text */
             margin-bottom: 15px;
+        }
+
+        /* Styling for the boat image at the bottom */
+        .boat-link img {
+            width: 150px; /* You can adjust the size of the boat image */
+            height: auto;
+            display: block;
+            margin: 40px auto;
+            border-radius: 8px;
         }
     </style>
 </head>
 <body>
     <div class="content">
         <h1>Welcome to My Pirate Site, my journey to becoming the Pirate King.</h1>
-        
-        <!-- Boat Icon Section -->
-        <p>
-            <a href="https://joyboyisland3.github.io/">
-                <img src="boat-icon.png" alt="Boat Icon" style="width: 100px; height: auto;">
-            </a>
+        <p>for my thoughts click here ^ 
+        <a href="https://joyboyisland3.github.io/">
+            <img src="brain-image.png" alt="Brain Image" style="width: 100px; height: auto;">
+        </a>
         </p>
 
         <h2>BIO:</h2>
+
         <h3><strong>Zev Stieglitz</strong> (aka <strong>Joyboy</strong>)</h3>
+
         <h4 style="font-size: 85%"><em><strong>Zev Stieglitz</strong></em>, known professionally as <strong>Joyboy</strong>, is an American artist and musician recognized for his unique and raw blend of melodic rap and introspective lyrics. Masterfully intertwining <strong>pirate-inspired themes</strong>, Joyboy is emerging onto the music scene with a distinct sound. He has been gaining attention for his unapologetic storytelling and innovative approach to music. As he puts it, <em>“I just want to be free and have fun.”</em></h4>
 
         <h2><strong>Career Highlights:</strong></h2>
+
         <h3><strong>"FRONTLINE!!!"</strong></h3>
         <p><strong>Joyboy</strong> released <em>"FRONTLINE!!!"</em>, a track that delves into the challenges of pursuing one's <strong>dreams</strong>. The song received acclaim for its raw portrayal of ambition and resilience. <strong>Music journalist NSF</strong> commented, "*Zev is dropping pieces of fine melodic art, not just music.*" (Source: <a href="https://medium.com/@newsoundsfirst/zev-stieglitz-aka-joyboy-drops-frontline-a-gritty-take-on-chasing-dreams-d47ae8a2b71f">Medium</a>)</p>
 
@@ -130,11 +143,12 @@
 
         <p>As <strong>Joyboy</strong> continues to evolve as an artist, his commitment to authenticity and musical innovation remains at the forefront of his work.</p>
 
-        <p>
-            <a href="https://joyboyisland2.github.io/">
-                <img src="x.png" alt="X Image" style="width: 50px; height: auto;">
+        <!-- Boat Image and clickable link -->
+        <div class="boat-link">
+            <a href="https://your-link-here.com"> <!-- Replace with your desired URL -->
+                <img src="boat.png" alt="Pirate Boat">
             </a>
-        </p>
+        </div>
     </div>
 </body>
 </html>
