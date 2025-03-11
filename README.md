@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="styles.css">
 
-# Welcome to My Pirate Site
+# Welcome to My Pirate Site, my journey to becoming the Pirate King.
+for my thoughts > [**<span style="color: red;">PiratesMind</span>**](https://joyboyisland3.github.io/)
 
+# BIO:
 
 ### **Zev Stieglitz** (aka **Joyboy**)
 
@@ -47,7 +49,7 @@ Active on platforms like **Instagram** and **X** (formerly known as Twitter), **
 ## **Online Presence:**
 **Joyboy's** tracks are available on his **SoundCloud profile and all major platforms**, where listeners can stream his latest releases.  
 [SoundCloud](https://m.soundcloud.com/zevstieglitz)  
-[Spotify](https://open.spotify.com/artist/6OASBAyDtjv5zSBnPxRr7R?si=Hjouiu_oS2CUl6amfVMnNw)  
+[Spotify](https://open.spotify.com/artist/62Gb3It7eyils2yUOu5Bnj?si=r66x1-KaR2yoUCrPFOsfIQ)  
 [Apple Music](https://music.apple.com/us/artist/zev-stieglitz/1646805376)
 
 For updates on upcoming **music, performances, and personal insights**, follow **Joyboy** on:  
@@ -57,3 +59,6 @@ For updates on upcoming **music, performances, and personal insights**, follow *
 As **Joyboy** continues to evolve as an artist, his commitment to authenticity and musical innovation remains at the forefront of his work. Combined with his **pirate-inspired themes**, this promises a **bright and adventurous** future in the music industry.
 
 ![Image](https://github.com/user-attachments/assets/0ebf0126-f286-4a13-82b9-87a592616cf1)
+
+
+[**<span style="color: red;">???X???</span>**](https://joyboyisland2.github.io/)
