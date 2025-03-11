@@ -19,17 +19,25 @@
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
+            height: 100vh; /* Full height to fill screen */
         }
 
+        /* Content container with proper padding and background to improve readability */
         .content {
             padding: 20px;
             max-width: 1200px;
             margin: 0 auto;
-            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for text visibility */
+            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for readability */
             color: white;
             overflow-y: auto;
             height: 100vh; /* Ensure content takes full height */
             width: 100%;
+            box-sizing: border-box;
+        }
+
+        /* Ensure proper scrolling behavior */
+        .content * {
+            margin-bottom: 10px;
         }
     </style>
 </head>
