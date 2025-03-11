@@ -10,8 +10,8 @@ body {
     margin: 0;        /* Remove default margin */
     padding: 0;       /* Remove default padding */
     background-color: #000000; /* Black background */
-    background-image: url('![Image](https://github.com/user-attachments/assets/e7c9c099-90a7-4734-b740-42aaa0a93f0e)');  /* Replace with your GIF URL */
-    background-size: cover;  /* Makes the background fill the entire screen */
+    background-image: url('https://github.com/user-attachments/assets/e7c9c099-90a7-4734-b740-42aaa0a93f0e'); /* Background image */
+    background-size: cover;  /* Make the background fill the entire screen */
     background-position: center;  /* Center the background */
     background-attachment: fixed; /* Make the background fixed when scrolling */
 }
@@ -51,3 +51,13 @@ p {
     color: red; /* Color changes to red when hovered */
 }
 
+/* Style for the 'befree.gif' background to cover the entire page */
+.befree-gif-background {
+    background-image: url('befree.gif');  /* Use the "befree.gif" image */
+    background-size: cover;  /* Make the background fill the entire page */
+    background-position: center;  /* Center the GIF */
+    background-repeat: no-repeat;  /* Don't repeat the GIF */
+    background-attachment: fixed; /* Fix the GIF in place when scrolling */
+    height: 100vh;  /* Full viewport height */
+    width: 100vw;  /* Full viewport width */
+}
