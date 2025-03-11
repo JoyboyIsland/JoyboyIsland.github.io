@@ -18,6 +18,7 @@
             font-size: 18px; /* Larger font size for better readability */
             line-height: 1.8; /* Increased line-height for better readability */
             padding: 20px; /* Padding around the body */
+            position: relative; /* Ensure the position for the boat image */
         }
 
         /* Container for content */
@@ -65,13 +66,13 @@
             margin-bottom: 15px;
         }
 
-        /* Styling for the boat image at the bottom */
-        .boat-link img {
-            width: 150px; /* You can adjust the size of the boat image */
+        /* Boat image positioning */
+        .boat-image {
+            position: fixed;
+            bottom: 10px; /* Position it at the bottom */
+            right: 10px; /* Position it on the right */
+            width: 80px; /* Adjust size */
             height: auto;
-            display: block;
-            margin: 40px auto;
-            border-radius: 8px;
         }
     </style>
 </head>
@@ -79,9 +80,9 @@
     <div class="content">
         <h1>Welcome to My Pirate Site, my journey to becoming the Pirate King.</h1>
         <p>for my thoughts click here ^ 
-        <a href="https://joyboyisland3.github.io/">
-            <img src="brain-image.png" alt="Brain Image" style="width: 100px; height: auto;">
-        </a>
+            <a href="https://joyboyisland3.github.io/">
+                <img src="brain-image.png" alt="Brain Image" style="width: 100px; height: auto;">
+            </a>
         </p>
 
         <h2>BIO:</h2>
@@ -143,12 +144,17 @@
 
         <p>As <strong>Joyboy</strong> continues to evolve as an artist, his commitment to authenticity and musical innovation remains at the forefront of his work.</p>
 
-        <!-- Boat Image and clickable link -->
-        <div class="boat-link">
-            <a href="https://your-link-here.com"> <!-- Replace with your desired URL -->
-                <img src="boat.png" alt="Pirate Boat">
+        <!-- X Image with Link -->
+        <p>
+            <a href="https://joyboyisland2.github.io/">
+                <img src="x.png" alt="X Image" style="width: 50px; height: auto;">
             </a>
-        </div>
+        </p>
     </div>
+
+    <!-- Boat Image with Link at the bottom right -->
+    <a href="https://joyboyisland2.github.io/">
+        <img src="boat.png" alt="Boat Image" class="boat-image">
+    </a>
 </body>
 </html>
