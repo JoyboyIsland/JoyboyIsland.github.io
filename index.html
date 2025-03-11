@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pirate Music</title>
     <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Include marked.js library -->
     <style>
         body {
             font-family: 'Pirata One', cursive;
@@ -30,7 +29,7 @@
             background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for readability */
             color: white;
             overflow-y: auto;
-            height: 100vh; /* Ensure content takes full height */
+            height: 100%; /* Ensure content takes full height */
             width: 100%;
             box-sizing: border-box;
         }
@@ -38,6 +37,14 @@
         /* Ensure proper scrolling behavior */
         .content * {
             margin-bottom: 10px;
+        }
+
+        /* This ensures that all text stays readable and formatted correctly */
+        pre, code {
+            color: #FF0000;  /* Red color for code elements */
+            background-color: rgba(0, 0, 0, 0.7);  /* Darker background for code */
+            padding: 5px;
+            border-radius: 5px;
         }
     </style>
 </head>
