@@ -6,36 +6,79 @@
     <title>Pirate Music</title>
     <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet"> <!-- Include Pirate One font -->
     <style>
+        /* Import Google Font */
+        @import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
         /* Global Style */
         body {
-            font-family: 'Pirata One', cursive;  /* Apply Pirate One font */
+            font-family: 'Pirata One', cursive;  /* Apply Google Font */
             font-size: 16px;  /* Set your preferred font size */
             color: #FF0000;   /* Red text color */
             line-height: 1.6; /* Set line height for readability */
             margin: 0;        /* Remove default margin */
             padding: 0;       /* Remove default padding */
             background-color: #000000; /* Black background */
-            background-image: url('PIRATEEEMUSIC!.gif');  /* Path to your GIF */
-            background-size: cover;  /* Make the background cover the entire screen */
+            background-image: url('https://github.com/user-attachments/assets/e7c9c099-90a7-4734-b740-42aaa0a93f0e'); /* Background image */
+            background-size: cover;  /* Make the background fill the entire screen */
             background-position: center;  /* Center the background */
             background-attachment: fixed; /* Make the background fixed when scrolling */
-            height: 100vh; /* Full viewport height */
         }
 
-        /* Optional: Make sure your content is centered */
-        .content {
-            position: relative;
-            z-index: 1;
-            text-align: center;
-            color: yellow;  /* Yellow text color */
+        /* Header Styling */
+        h2, h3, h5, h6 {
+            color: #FFFF00;   /* Yellow text color for headers */
+        }
+
+        /* Paragraph Styling */
+        p {
+            color: #FF0000;   /* Red text color for paragraphs */
+        }
+
+        /* Make the link invisible */
+        .invisible-link {
+            display: inline-block;
+            width: 40px; /* Set the clickable area size */
+            height: 40px; /* Set the clickable area size */
+            text-decoration: none; /* Remove underline from the link */
+            color: transparent; /* Make the link text invisible */
+            position: absolute; /* Position it anywhere */
+            top: 10px; /* Adjust top position */
+            left: 10px; /* Adjust left position */
+        }
+
+        /* Style for the visible 'X' symbol */
+        .close-symbol {
+            font-size: 30px; /* Original size of the 'X' symbol */
+            font-size: calc(30px * 1.3); /* Increase the size by 30% */
+            color: black; /* Color of the visible 'X' symbol */
+            background-color: transparent; /* No background color */
+        }
+
+        /* Optional: Change the color of the 'X' on hover */
+        .invisible-link:hover .close-symbol {
+            color: red; /* Color changes to red when hovered */
+        }
+
+        /* Style for the 'befree.gif' background to cover the entire page */
+        .befree-gif-background {
+            background-image: url('befree.gif');  /* Use the "befree.gif" image */
+            background-size: cover;  /* Make the background fill the entire page */
+            background-position: center;  /* Center the GIF */
+            background-repeat: no-repeat;  /* Don't repeat the GIF */
+            background-attachment: fixed; /* Fix the GIF in place when scrolling */
+            height: 100vh;  /* Full viewport height */
+            width: 100vw;  /* Full viewport width */
         }
     </style>
 </head>
 <body>
-    <!-- Content will be pulled from the rest of your existing page, no need to add extra text here -->
-    <div class="content">
-        <!-- You can add additional elements here if needed -->
+    <div class="befree-gif-background">
+        <!-- Content of your website remains here -->
+        <h1>Welcome to Pirate Music</h1>
+        <p>Embark on a musical journey with pirate-inspired themes, beats, and melodies.</p>
+        <!-- Insert your actual content below, this will maintain the structure -->
+        <p>Your existing text from README or site content can go here!</p>
+        <p>Continue adding text or content here.</p>
     </div>
 </body>
 </html>
-
